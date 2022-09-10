@@ -2,7 +2,7 @@
 <html>
    <head>
       <title>Display Current Date & Time</title>
-   </head>
+   </had>
    <body>
       <center>
          <h1>Display Current Date & Time</h1>
